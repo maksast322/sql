@@ -1,0 +1,15 @@
+# venv 
+.venv
+venv
+.env
+
+# log 
+*.log
+
+# python
+__pycache__
+*.pyc
+
+
+# database
+*.db
